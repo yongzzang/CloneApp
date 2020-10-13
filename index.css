@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    color: black;
+}
+
+.clicked{
+    color: cornflowerblue;
+}
+
+.form,
+.greetings{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
